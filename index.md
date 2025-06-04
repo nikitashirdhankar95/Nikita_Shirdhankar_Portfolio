@@ -46,7 +46,7 @@ My SQL Projects
 
 Here are the links to my SQL projects:
 
-*   [SQL Project 1](https://github.com/nikitashirdhankar95/SQL_Project1)
+*   [SQL Project 1](https://github.com/nikitashirdhankar95/SQL_Projects)
 *   [SQL Project 2](https://github.com/nikitashirdhankar95/SQL_Project2)
 
 My Tableau Projects
@@ -54,16 +54,16 @@ My Tableau Projects
 
 Here are the links to my Tableau projects:
 
-*   [Tableau Project 1](https://github.com/nikitashirdhankar95/Tableau_Project1)
-*   [Tableau Project 2](https://github.com/nikitashirdhankar95/Tableau_Project2)
+*   [Tableau Project 1](https://github.com/nikitashirdhankar95/TablueProject1)
+*   [Tableau Project 2](https://github.com/nikitashirdhankar95/TableueProject2)
 
 My Excel Projects
 =================
 
 Here are the links to my Excel projects:
 
-*   [Excel Project 1](https://github.com/nikitashirdhankar95/Excel_Project1)
-*   [Excel Project 2](https://github.com/nikitashirdhankar95/Excel_Project2)
+*   [Excel Project 1](https://github.com/nikitashirdhankar95/ExcelProject1)
+*   [Excel Project 2](https://github.com/nikitashirdhankar95/ExcelProject2)
 
 Contact
 -------
