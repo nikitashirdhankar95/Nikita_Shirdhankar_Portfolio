@@ -49,14 +49,14 @@
     <li><a href="https://github.com/nikitashirdhankar95/PowerBi_Project3">Power BI Project 3</a></li>
   </ul>
 
-  <h1 id="my-Python-projects">My Python Projects</h1>
-  <p>Here are the links to my Python projects:</p>
+ <h1 id="my-power-bi-projects">My Power BI Projects</h1>
+  <p>Here are the links to my Power BI projects:</p>
   <ul>
-    <li><a href="</a></li>
-    <li><a href="</a></li>
-    <li><a href="</a></li>
+    <li><a href="https://github.com/nikitashirdhankar95/PowerBi_Project1">Power BI Project 1</a></li>
+    <li><a href="https://github.com/nikitashirdhankar95/PowerBi_Project2">Power BI Project 2</a></li>
+    <li><a href="https://github.com/nikitashirdhankar95/PowerBi_Project3">Power BI Project 3</a></li>
   </ul>
-
+  
   <h1 id="my-sql-projects">My SQL Projects</h1>
   <p>Here are the links to my SQL projects:</p>
   <ul>
